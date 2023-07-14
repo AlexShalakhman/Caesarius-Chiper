@@ -1,4 +1,4 @@
-package finalProject.VigenèreСipher;
+package CaesariusChiper.VigenèreСipher;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

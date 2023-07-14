@@ -1,19 +1,21 @@
 
-import finalProject.UI.UI;
+import CaesariusChiper.UI.UI;
 
 public class Main {
     public static void main(String[] args){
         /*
         Initial message path -
-        C:\\Java\\finalProjectModule1\\src\\finalProject\\Files\\Message
+        Files -> Message -> Copy Absolute path
 
         Encrypted message path -
-        C:\\Java\\finalProjectModule1\\src\\finalProject\\Files\\EncryptedMessage
+        Files -> EncryptedMessage -> Copy Absolute path
 
         Decrypted message path -
-        C:\\Java\\finalProjectModule1\\src\\finalProject\\Files\\DecryptedMessage
-         */
-        UI.start();
+        Files -> DecryptedMessage -> Copy Absolute path
 
+        Or use your own existing files...
+         */
+
+        UI.start();
     }
 }

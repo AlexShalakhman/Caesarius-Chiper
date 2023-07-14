@@ -1,4 +1,4 @@
-package finalProject.FileCheck;
+package CaesariusChiper.FileCheck;
 
 import java.nio.file.Files;
 import java.nio.file.InvalidPathException;

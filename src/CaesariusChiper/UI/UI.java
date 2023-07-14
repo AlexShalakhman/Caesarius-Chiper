@@ -1,8 +1,8 @@
-package finalProject.UI;
+package CaesariusChiper.UI;
 
-import finalProject.FileCheck.MyFileReader;
-import finalProject.VigenèreСipher.BruteForce;
-import finalProject.VigenèreСipher.CaesarChiper;
+import CaesariusChiper.FileCheck.MyFileReader;
+import CaesariusChiper.VigenèreСipher.BruteForce;
+import CaesariusChiper.VigenèreСipher.CaesarChiper;
 
 
 import java.nio.file.Path;
