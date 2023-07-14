@@ -1,5 +1,5 @@
 
-# Caesarius Chiper 
+![caesar-chiper-high-resolution-color-logo](https://github.com/AlexShalakhman/Caesarius-Chiper/assets/98821291/483cd558-7ee6-4af3-8172-c07a3aea9cff)
 
 ### A brief description of what this project does and who it's for -
  Welcome to the Caesarius Cipher project! This project aims to provide a simple implementation of the famous Caesarius Cipher encryption algorithm. The Caesarius Cipher, also known as the Shift Cipher, is one of the earliest known substitution ciphers, where each letter in the plaintext is shifted a certain number of places down the alphabet.
